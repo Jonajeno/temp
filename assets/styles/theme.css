@@ -1,0 +1,18 @@
+:root {
+  /* Main Colors */
+  --color-primary: #79543a;
+  --color-background: #f2eadf;
+  --color-section: #fffaf2;
+
+  /* Text Colors */
+  --color-text: #333333;
+  --color-text-light: #ffffff;
+
+  /* Other Colors */
+  --color-border: #d6c8b8;
+
+  /* Box */
+  --color-box-light: #fffaf2;
+  --color-box-primary: #79543a;
+  --color-box-border: #d6c8b8;
+}
